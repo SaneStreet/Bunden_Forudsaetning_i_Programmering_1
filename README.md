@@ -1,5 +1,4 @@
 # Bunden_Forudsaetning_i_Programmering_1
-
 Main ligger i Start.
 
 Programmet starter:
@@ -17,4 +16,6 @@ Programmet starter:
  
  4. Efter du har læst joken, vil programmet vise en meget simpel while loop, der tæller fra 1 til 10.
  
- God fornøjelse.
+ PS: Nogle kommentarer er på engelsk, fordi jeg fandt det nemmere at forklare dem på engelsk.
+ 
+ God fornøjelse!
